@@ -1,0 +1,20 @@
+INSERT INTO `user`
+(`id`, `first_name`,    `last_name`,        `email`,                        `phone`,            `comments`,      `status`) VALUES
+(NULL, 'Amanda',        'Nunes',            'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Alexander',     'Volkanovski',      'avolkanovski@ufc.com',         '012345678910',     '',             'active'),
+(NULL, 'Khabib',        'Nurmagomedov',     'knurmagomedov@ufc.com',        '012345678910',     '',             'active'),
+(NULL, 'Kamaru',        'Usman',            'kusman@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Israel',        'Adesanya',         'iadesanya@ufc.com',            '012345678910',     '',             'active'),
+(NULL, 'Henry',         'Cejudo',           'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Valentina',     'Shevchenko',       'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Tyron',         'Woodley',          'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Rose',          'Namajunas',        'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Tony',          'Ferguson',         'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Jorge',         'Masvidal',         'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Nate',          'Diaz',             'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Conor',         'Nunes',            'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Cris',          'McGregon',         'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Tecia',         'Cyborg',           'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Ronda',         'Torres',           'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Holly',         'Rousey',           'anunes@ufc.com',               '012345678910',     '',             'active'),
+(NULL, 'Joanna',        'Holm',             'anunes@ufc.com',               '012345678910',     '',             'active')
